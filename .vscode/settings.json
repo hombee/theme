@@ -1,0 +1,13 @@
+{
+    "[nix]": {
+      "editor.defaultFormatter": "google.nix-language"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.rulers": [80],
+    "editor.tabSize": 2,
+    "files.autoSave": "off",
+    "files.insertFinalNewline": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "IDX.aI.enableInlineCompletion": true,
+  }
